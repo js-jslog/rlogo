@@ -1,5 +1,3 @@
-<html>
-<body>
 <svg width="500" height="500">
 	<defs>
 	<g id="littlecircle" fill="#333">
@@ -23,6 +21,3 @@
 	<use x="250" y="350" xlink:href="#littlecircle"/>
 	<text x="285" y="330" font-size="100" fill="rgb(144,195,212)">type</text>
 </svg>
-
-</body>
-</html>
