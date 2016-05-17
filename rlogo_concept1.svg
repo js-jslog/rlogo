@@ -1,8 +1,7 @@
-<svg width="500" height="500">
+<svg width="500" height="500" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<defs>
 	<g id="littlecircle" fill="#333">
-		<circle r="25"
-	/>
+		<circle r="25" />
 	</g>
 
 	<g id="rpath" fill="white">
@@ -16,8 +15,8 @@
 	</g>
 	</defs>
 	<rect x="100" y="150" width="500" height="250" stroke="none" fill="#333" />
-	<use x="175" y="345" xlink:href="#rpath"/>
-	<use x="250" y="250" xlink:href="#littlecircle"/>
-	<use x="250" y="350" xlink:href="#littlecircle"/>
+	<use x="175" y="345" xlink:href="#rpath" />
+	<use x="250" y="250" xlink:href="#littlecircle" />
+	<use x="250" y="350" xlink:href="#littlecircle" />
 	<text x="285" y="330" font-size="100" fill="rgb(144,195,212)">type</text>
 </svg>
