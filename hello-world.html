@@ -1,0 +1,28 @@
+<html>
+<body>
+<svg width="500" height="500">
+	<defs>
+	<g id="littlecircle" fill="#333">
+		<circle r="25"
+	/>
+	</g>
+
+	<g id="rpath" fill="white">
+		<path stroke="none" d="m0 0 l0 -95
+								a75,75 0 0,1 150,0
+								a75,75 0 0,1 -20,50
+								a75,75 0 0,1 0, 100
+								z
+								"
+		/>
+	</g>
+	</defs>
+	<rect x="100" y="150" width="500" height="250" stroke="none" fill="#333" />
+	<use x="175" y="345" xlink:href="#rpath"/>
+	<use x="250" y="250" xlink:href="#littlecircle"/>
+	<use x="250" y="350" xlink:href="#littlecircle"/>
+	<text x="285" y="330" font-size="100" fill="rgb(144,195,212)">type</text>
+</svg>
+
+</body>
+</html>
