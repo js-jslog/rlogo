@@ -1,2 +1,1 @@
-![Alt text](https://rawgit.com/js-jslog/rlogo/master/rlogo_concept1.svg)
-<img src="https://rawgit.com/js-jslog/rlogo/master/rlogo_concept1.svg">
+![Alt text](https://rlogo-jslog.c9users.io/js-jslog.github.io/rlogo_concept1.5.svg)
